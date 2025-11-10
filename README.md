@@ -158,8 +158,7 @@ npm install
 npm start
 
 
-<<<<<<< HEAD
-Open your browser → http://localhost:3000
+<< HEAD
 =======
 Open your browser → http://localhost:3000
->>>>>>> 07dfe5a32b4332df188e4c79ed6ccba7ffbfdd17
+
