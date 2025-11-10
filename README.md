@@ -27,6 +27,8 @@ Error handling & CORS setup
 
 Environment variable configuration via .env
 
+
+
 🧱 Tech Stack
 Layer	Technology Used
 Frontend	React.js, React Router
