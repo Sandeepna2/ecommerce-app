@@ -27,11 +27,8 @@ Error handling & CORS setup
 
 Environment variable configuration via .env
 
-<<<<<<< HEAD
+<<HEAD
 =======
-
-
->>>>>>> 07dfe5a32b4332df188e4c79ed6ccba7ffbfdd17
 🧱 Tech Stack
 Layer	Technology Used
 Frontend	React.js, React Router
@@ -39,33 +36,10 @@ Backend	Node.js, Express.js
 Database	MongoDB Atlas (Cloud DB)
 State Mgmt.	React Context API
 Environment	dotenv
+
 🗂️ Project Structure
-ecommerce-app/
-├── backend/
-│   ├── controllers/
-│   │   └── productController.js
-│   ├── models/
-│   │   └── Product.js
-│   ├── routes/
-│   │   ├── products.js
-│   │   └── seed.js
-│   ├── server.js
-│   ├── package.json
-│   └── .env
-│
-└── frontend/
-    ├── src/
-    │   ├── components/
-    │   │   ├── ProductCard.js
-    │   │   ├── ProductList.js
-    │   │   ├── ProductDetails.js
-    │   │   └── CartPage.js
-    │   ├── context/
-    │   │   └── CartContext.js
-    │   ├── App.js
-    │   └── index.js
-    ├── package.json
-    └── .env
+<img width="285" height="511" alt="image" src="https://github.com/user-attachments/assets/47716130-6ba0-412a-aa3b-b3296564bd78" />
+
 
 ⚙️ Backend Setup
 1️⃣ Navigate to backend folder
