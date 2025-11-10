@@ -38,6 +38,7 @@ State Mgmt.	React Context API
 Environment	dotenv
 
 🗂️ Project Structure
+
 <img width="285" height="511" alt="image" src="https://github.com/user-attachments/assets/47716130-6ba0-412a-aa3b-b3296564bd78" />
 
 
