@@ -27,6 +27,11 @@ Error handling & CORS setup
 
 Environment variable configuration via .env
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 07dfe5a32b4332df188e4c79ed6ccba7ffbfdd17
 🧱 Tech Stack
 Layer	Technology Used
 Frontend	React.js, React Router
@@ -178,4 +183,8 @@ npm install
 npm start
 
 
+<<<<<<< HEAD
 Open your browser → http://localhost:3000
+=======
+Open your browser → http://localhost:3000
+>>>>>>> 07dfe5a32b4332df188e4c79ed6ccba7ffbfdd17
