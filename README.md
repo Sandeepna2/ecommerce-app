@@ -1,7 +1,7 @@
 🛍️ E-Commerce App--
 
 A full-stack  (MongoDB, Express.js, React.js, Node.js) e-commerce web application that allows users to browse products, view details, manage a shopping cart, and handle cart state management with React Context.
-
+ 
 🚀 Features
 🧭 Frontend
 
